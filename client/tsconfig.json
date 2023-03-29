@@ -5,6 +5,10 @@
       "dom.iterable",
       "esnext"
     ],
+    "types": [
+      // "node",
+      "webpack-env"
+    ],
     "module": "esnext",
     "target": "es5",
     "allowJs": true,
