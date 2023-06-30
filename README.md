@@ -10,4 +10,4 @@
 - CoinMarketcap API (получение данных о криптовалютах)
 
 # Превью
-![Screenshot](https://github.com/cryptocurrency-demo/blob/main/1.png)
+![Screenshot](https://github.com/CommonPrint/cryptocurrency-demo/blob/main/1.png)
