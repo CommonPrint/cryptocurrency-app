@@ -11,3 +11,6 @@
 
 # Превью
 ![Screenshot](https://github.com/CommonPrint/cryptocurrency-demo/blob/main/1.png)
+--
+![Screenshot](https://github.com/CommonPrint/cryptocurrency-demo/blob/main/2.png)
+
